@@ -1,0 +1,61 @@
+[
+    {
+        "id": 1,
+        "image": "https://cdn-icons-png.flaticon.com/512/2991/2991352.png",
+        "services": "Ambulance",
+        "capacity": 2,
+        "price": 78
+    },
+  
+    {
+        "id": 2,
+        "image": "https://cdn-icons-png.flaticon.com/512/2038/2038364.png",
+        "services": "Online Service",
+        "capacity": 4,
+        "price": 65
+    },
+    {
+        "id": 3,
+        "image": "https://image.flaticon.com/icons/png/512/2146/2146268.png",
+        "services": "Online Payment",
+        "capacity": 50,
+        "price": 50
+    },
+    {
+        "id": 4,
+        "image": "https://cdn-icons-png.flaticon.com/512/843/843344.png",
+        "services": "Doctors",
+        "capacity": 200,
+        "price": 32
+    },
+    {
+        "id": 5,
+        "image": "https://cdn-icons-png.flaticon.com/512/1786/1786559.png",
+        "services": "Diagnostics",
+        "capacity": 200,
+        "price": 32
+    },
+    {
+        "id": 6,
+        "image": "https://cdn-icons-png.flaticon.com/512/843/843344.png",
+        "services": "Doctors",
+        "capacity": 200,
+        "price": 32
+    }
+    ,
+    {
+        "id": 6,
+        "image": "https://cdn-icons-png.flaticon.com/512/843/843344.png",
+        "services": "Doctors",
+        "capacity": 200,
+        "price": 32
+    }
+    ,
+    {
+        "id": 6,
+        "image": "https://cdn-icons-png.flaticon.com/512/843/843344.png",
+        "services": "Doctors",
+        "capacity": 200,
+        "price": 32
+    }
+]

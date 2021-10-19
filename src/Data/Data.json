@@ -1,0 +1,45 @@
+[
+    {
+        "id": 1,
+        "image": "https://cdn-icons-png.flaticon.com/512/2991/2991352.png",
+        "services": "Ambulance",
+        "capacity": 10,
+        "desc":  "Need emergency ambulance service near you? Sheba.xyz has the reliable high standard ambulance services near you to help you out in your hours of need to go anywhere in Bangladesh."
+    },
+  
+    {
+        "id": 2,
+        "image": "https://cdn-icons-png.flaticon.com/512/2038/2038364.png",
+        "services": "Online Service",
+        "desc":  "Online customer service representatives typically respond to customers via e-mail and online chat boxes. Their duties include obtaining and recording the details of customer information, inquiries, comments and complaints, as well as the actions taken to resolve any issues."
+    },
+    {
+        "id": 3,
+        "image": "https://image.flaticon.com/icons/png/512/2146/2146268.png",
+        "services": "Online Payment",
+        "capacity": "Bkash, Nagad, Upay, Cards",
+        "desc":  "An online payment is an electronic exchange of currency for purchased goods or services. ... Collecting money through the Internet means accepting online payment. The most common payment forms online are credit card and debit card, others are e-wallet, bank transfer, bitcoin wallet and smart cards."
+    },
+    {
+        "id": 4,
+        "image": "https://cdn-icons-png.flaticon.com/512/843/843344.png",
+        "services": "Doctors",
+        "capacity": 57,
+        "desc":  "Best Doctors was founded on the ideal that a person’s location should not limit the quality of their care. As a result, our mission is to bring together the best medical minds in the world to get you the right diagnosis and treatment, no matter where you live. We are proud to offer a variety of services which focus on getting you the very best care—each available without the need to travel."
+    },
+    {
+        "id": 5,
+        "image": "https://cdn-icons-png.flaticon.com/512/1786/1786559.png",
+        "services": "Diagnostics",
+        "capacity": "All kinds of Diagnostics are available",
+        "desc":  "A facility able to evaluate a person's condition. DIAGNOSTIC CENTER: The diagnostic centre used blood tests and xrays to determine a person's conditions."
+    },
+    {
+        "id": 6,
+        "image": "https://cdn-icons-png.flaticon.com/512/3063/3063176.png",
+        "services": "Hospital",
+        "capacity": "400 Beds are available for patient",
+        "desc":  "Hill view Hospitals Limited is a 400 beds tertiary care hospital and the leading contributor of private healthcare services in Bangladesh. This has been achieved only through consistent commitment to improving the lives of people through utmost service excellence since its inception on 16th December 2006. Square Hospital is one of the ventures of Square Group which is the top business group of the country."
+    }
+
+]

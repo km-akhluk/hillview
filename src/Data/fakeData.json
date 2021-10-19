@@ -1,0 +1,26 @@
+ [
+    {
+      "id": 1,
+      "vehicleType": "bike",
+      "photo": "https://www.squarehospital.com//frontEnd/images/ambulanc_icon.png",
+      "costPerTicket": 70
+    },
+    {
+      "id": 2,
+      "vehicleType": "car",
+      "photo": "https://lh3.googleusercontent.com/proxy/Ru13eE8U05nMFZELiKAGQvPZFn12ZvbdMOcZMp0oWtE1Dv_ykR6R82uhaWUDJPtrNwUrkAGgvRSDE7kSnvCxWn2Ry5m3VXf4J11MQBofj5OsR_GWRqOpR3DoGMOy",
+      "costPerTicket": 60
+    },
+    {
+      "id": 3,
+      "vehicleType": "bus",
+      "photo": "https://www.pngitem.com/pimgs/m/320-3200752_charter-bus-png-transparent-png.png",
+      "costPerTicket": 50
+    },
+    {
+      "id": 4,
+      "vehicleType": "train",
+      "photo": "https://www.kindpng.com/picc/m/146-1467979_subway-clipart-maglev-train-maglev-train-transparent-background.png",
+      "costPerTicket": 40
+    }
+  ]
